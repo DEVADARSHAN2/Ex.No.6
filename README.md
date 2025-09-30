@@ -7,7 +7,7 @@
 #AI Tools Required:
 <hr>
 
-<h2>⚙️ Required AI Tools</h2>
+<h2> Required AI Tools</h2>
 <p>
 To run this project effectively, you’ll need access to some or all of the following AI tools:
 </p>
@@ -56,7 +56,7 @@ To run this project effectively, you’ll need access to some or all of the foll
 
 <hr>
 
-<h2>🚀 Getting Started</h2>
+<h2> Getting Started</h2>
 
 <p>Follow these steps to set up and run the project:</p>
 
